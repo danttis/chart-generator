@@ -1,5 +1,4 @@
 library(shiny)
-library(corrgram)
 library(plot3D)
 
 graphics = c("Barras","Pizza","Linha", "Dispersão", "3D")
